@@ -1,0 +1,27 @@
+body {
+  background: rgb(1, 4, 7);
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  text-align: center;
+  color: rgb(201, 247, 0);
+}
+.fecha {
+  width: 70%;
+  margin: auto;
+  background: rgb(15, 36, 48);
+  padding: 10px;
+  border-radius: 10px;
+}
+.fecha__completa {
+  text-align: center;
+}
+.hora {
+  display: flex;
+  flex-direction: column;
+  font-size: 50px;
+  align-items: center;
+  font-weight: bold;
+  color: rgb(0, 255, 115);
+}
